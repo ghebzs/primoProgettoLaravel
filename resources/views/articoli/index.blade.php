@@ -30,7 +30,7 @@ bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 <td>
 <a href="{{ route('articolo.show',
 $articolo->id) }}"
-class="btn btn-info">Visualizza</a>
+class="btn btn-info">Visualizzaaa</a>
 <!-- Aggiungi pulsanti di modifica o
 eliminazione se necessario -->
 
